@@ -2,6 +2,7 @@ acg.tv
 acgvideo.com
 b23.tv
 biliapi.com
+bilibili.com
 biliapi.net
 bilibili.com
 bilibiligame.net
@@ -18,3 +19,5 @@ hdslb.com
 im9.com
 mincdn.com
 biligo.com
+www.bilibili.com
+*.hdslb.com
